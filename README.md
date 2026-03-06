@@ -11,7 +11,8 @@ The system ingests raw data, performs transformations, and loads the final struc
 
 ## Architecture
 
-![Data Pipeline Architecture](architecture/data_pipeline_diagram.png)
+![DE](https://github.com/user-attachments/assets/4ffec0d6-5b62-47c3-b004-828b1284352c)
+
 
 The pipeline is organized into three main layers:
 
