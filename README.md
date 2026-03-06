@@ -112,16 +112,10 @@ databricks-medallion-data-pipeline
 
 ---
 
-## Future Improvements
-
-* Implement **data quality validation checks**
-* Add **incremental data loading**
-* Integrate with **streaming pipelines**
-* Add **CI/CD integration for Databricks workflows**
 
 ---
 
 ## Author
 
-Monjur Alahi
+Monjur Alahi Saifullah
 Aspiring Data Engineer | Data Engineering & Analytics Enthusiast
