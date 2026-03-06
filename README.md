@@ -64,6 +64,9 @@ Default Schema → Bronze Layer → Silver Layer → Gold Layer
 
 5. **Pipeline Automation**
 
+<img width="1513" height="709" alt="image" src="https://github.com/user-attachments/assets/de17f4dc-0fba-474f-b640-f3b606ca7f24" />
+
+
    * Scheduled execution using **Databricks Jobs**
 
 ---
